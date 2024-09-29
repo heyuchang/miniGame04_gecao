@@ -1,0 +1,22 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "651a6a80-ff89-4bda-840c-67673daba6b1",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "compressionType": {
+      "wechatgame": "subpackage",
+      "vivo-mini-game": "subpackage",
+      "oppo-mini-game": "subpackage"
+    },
+    "isRemoteBundle": {
+      "wechatgame": false,
+      "vivo-mini-game": false,
+      "oppo-mini-game": false
+    },
+    "isBundle": true,
+    "priority": 10
+  }
+}

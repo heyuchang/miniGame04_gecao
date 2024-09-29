@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xing-animation 00",
+    "atlas": "",
+    "rect": {
+      "x": 519,
+      "y": 43,
+      "width": 38,
+      "height": 38
+    },
+    "offset": {
+      "x": 236.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 603,
+      "height": 125
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -19,
+        -19,
+        0,
+        19,
+        -19,
+        0,
+        -19,
+        19,
+        0,
+        19,
+        19,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        519,
+        82,
+        557,
+        82,
+        519,
+        44,
+        557,
+        44
+      ],
+      "nuv": [
+        0.8606965174129353,
+        0.352,
+        0.9237147595356551,
+        0.352,
+        0.8606965174129353,
+        0.656,
+        0.9237147595356551,
+        0.656
+      ],
+      "minPos": {
+        "x": -19,
+        "y": -19,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 19,
+        "y": 19,
+        "z": 0
+      }
+    },
+    "texture": "0ff0e2e6-adcb-4fa2-a2ad-5e8102da4fc3@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

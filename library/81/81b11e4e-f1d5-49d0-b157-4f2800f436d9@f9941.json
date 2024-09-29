@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skeleton-animation 04",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 193,
+      "height": 92
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 193,
+      "height": 92
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -96.5,
+        -46,
+        0,
+        96.5,
+        -46,
+        0,
+        -96.5,
+        46,
+        0,
+        96.5,
+        46,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        92,
+        193,
+        92,
+        0,
+        0,
+        193,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -96.5,
+        "y": -46,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 96.5,
+        "y": 46,
+        "z": 0
+      }
+    },
+    "texture": "81b11e4e-f1d5-49d0-b157-4f2800f436d9@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

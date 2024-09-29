@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "prop_bomb",
+    "atlas": "",
+    "rect": {
+      "x": 11,
+      "y": 12,
+      "width": 79,
+      "height": 80
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -2
+    },
+    "originalSize": {
+      "width": 100,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -39.5,
+        -40,
+        0,
+        39.5,
+        -40,
+        0,
+        -39.5,
+        40,
+        0,
+        39.5,
+        40,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        11,
+        88,
+        90,
+        88,
+        11,
+        8,
+        90,
+        8
+      ],
+      "nuv": [
+        0.11,
+        0.08,
+        0.9,
+        0.08,
+        0.11,
+        0.88,
+        0.9,
+        0.88
+      ],
+      "minPos": {
+        "x": -39.5,
+        "y": -40,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 39.5,
+        "y": 40,
+        "z": 0
+      }
+    },
+    "texture": "965b8225-ef21-417c-9d8d-2bff0f59dd45@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

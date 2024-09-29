@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "manggaoji",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 194,
+      "height": 151
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 194,
+      "height": 151
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -97,
+        -75.5,
+        0,
+        97,
+        -75.5,
+        0,
+        -97,
+        75.5,
+        0,
+        97,
+        75.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        151,
+        194,
+        151,
+        0,
+        0,
+        194,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -97,
+        "y": -75.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 97,
+        "y": 75.5,
+        "z": 0
+      }
+    },
+    "texture": "9dd37fd9-2ea2-466b-a586-131130604de1@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

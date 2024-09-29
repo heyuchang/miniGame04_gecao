@@ -1,0 +1,27 @@
+{
+  "splash-setting": {
+    "clearColor": {
+      "x": 0.8784313725490196,
+      "y": 0.8784313725490196,
+      "z": 0.8784313725490196,
+      "w": 0
+    },
+    "totalTime": 0,
+    "displayWatermark": false,
+    "url": "project://assets/res/ui/loading.jpg"
+  },
+  "textureCompressConfig": {
+    "userPreset": {
+      "26in6D3HVFaLnYtTownjEw": {
+        "name": "test",
+        "options": {
+          "miniGame": {
+            "etc2_rgba": {
+              "quality": "fast"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet10150",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 31,
+      "height": 40
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 31,
+      "height": 40
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -15.5,
+        -20,
+        0,
+        15.5,
+        -20,
+        0,
+        -15.5,
+        20,
+        0,
+        15.5,
+        20,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        40,
+        31,
+        40,
+        0,
+        0,
+        31,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -15.5,
+        "y": -20,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 15.5,
+        "y": 20,
+        "z": 0
+      }
+    },
+    "texture": "85865aed-140a-44ae-9c40-6c61b2bb525b@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

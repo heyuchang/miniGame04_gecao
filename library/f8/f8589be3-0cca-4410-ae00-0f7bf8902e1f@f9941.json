@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blessresbg",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 707,
+      "height": 623
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 707,
+      "height": 623
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -353.5,
+        -311.5,
+        0,
+        353.5,
+        -311.5,
+        0,
+        -353.5,
+        311.5,
+        0,
+        353.5,
+        311.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        623,
+        707,
+        623,
+        0,
+        0,
+        707,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -353.5,
+        "y": -311.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 353.5,
+        "y": 311.5,
+        "z": 0
+      }
+    },
+    "texture": "f8589be3-0cca-4410-ae00-0f7bf8902e1f@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

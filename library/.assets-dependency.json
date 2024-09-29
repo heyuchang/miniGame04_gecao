@@ -1,0 +1,243 @@
+{
+  "path": {
+    "G:\\cocos\\末日特工队\\assets\\res\\common\\shader\\shineColor.effect": [
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\sprite-vs.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\sprite-fs.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\common\\shader\\shineColorSpine.effect": [
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\spine-vs.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\spine-fs.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "G:\\cocos\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\spine-vs.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\common\\common-define.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\spine-fs.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "G:\\cocos\\末日特工队\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\common\\font\\num.fnt": [
+      "G:\\cocos\\末日特工队\\assets\\res\\common\\font\\num.png"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster24\\bxg.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster24\\bxg.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster23\\dunbing.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster23\\dunbing.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster22\\ncg.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster22\\ncg.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster21\\pdjr.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster21\\pdjr.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\bless\\hcjm.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\bless\\hcjm.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster6\\xiezi.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster6\\xiezi.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster4\\jjs.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster4\\jjs.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster5\\dianju.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster5\\dianju.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\boom\\boom.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\boom\\boom.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\bosstb\\bosstb.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\bosstb\\bosstb.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\bxLight\\bxLight.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\bxLight\\bxLight.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\hongbao\\hongb.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\hongbao\\hongb.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\caires\\spf.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\caires\\spf.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\fhjm\\fhjm.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\fhjm\\fhjm.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\pd\\pd.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\pd\\pd.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\red\\gth.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\red\\gth.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\red\\hd.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\red\\hd.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\pata\\pata.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\pata\\pata.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\manghe\\mhjm.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\manghe\\mhjm.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\roleLight\\zbjm.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\roleLight\\zbjm.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\role\\role.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\role\\role.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\roleLoading\\role.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\roleLoading\\role.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\sl\\sl.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\sl\\sl.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\sb\\sb.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\sb\\sb.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\shouzhi\\shouzhi.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\shouzhi\\shouzhi.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\ta\\ta.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\ta\\ta.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\weiji\\weiji.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\weiji\\weiji.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\xylc\\xylc.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\xylc\\xylc.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\zhujiem\\zjm.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\zhujiem\\zjm.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\yanhua\\yanhua.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\yanhua\\yanhua.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\yd\\yd.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\spine\\yd\\yd.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\bullet\\res\\bullet17\\rlsz.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\bullet\\res\\bullet17\\rlsz.atlas"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\weapon\\res\\weapon6_1\\tiechui.json": [
+      "G:\\cocos\\末日特工队\\assets\\res\\weapon\\res\\weapon6_1\\tiechui.atlas"
+    ]
+  },
+  "uuid": {
+    "G:\\cocos\\末日特工队\\assets\\res\\common\\shader\\shineColor.mtl": [
+      "dffe2ab0-7235-4948-a8d9-b7a9b36dd78a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\common\\shader\\shineColorSpine.mtl": [
+      "2be63378-68f9-4723-8a7e-d1a943d0b457"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster21\\pdjr.json": [
+      "3f66eea3-c75f-44e6-afa4-90bf5f8f6f74@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster22\\ncg.json": [
+      "fb6bad27-522e-456e-af4d-25f8d2fb2ce8@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster23\\dunbing.json": [
+      "6cfd9f84-64f8-4407-aa0e-1489e08b0da3@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster24\\bxg.json": [
+      "7d9d7ced-69b0-409a-a955-c88cfde17b6d@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster4\\jjs.json": [
+      "f154cc23-0068-4492-be44-769537e5a756@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster5\\dianju.json": [
+      "7d4ee6ba-f27c-46ff-9002-4e408fd7a0f5@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\monster\\monster6\\xiezi.json": [
+      "585a4955-8352-49c2-9b33-46489cd5f4e4@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\bless\\hcjm.json": [
+      "0eabc2f9-4adf-4058-9bc9-ff1eb8bd688f@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\boom\\boom.json": [
+      "fa9239fd-ec86-48e2-976d-ab3b79b70937@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\bosstb\\bosstb.json": [
+      "cf0acd1a-61fb-4afd-b139-682638387f18@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\bxLight\\bxLight.json": [
+      "d3f9702a-6c32-4a78-80df-d89743cf98ea@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\caires\\spf.json": [
+      "02c13776-b2dd-4778-a202-0cb15384b497@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\fhjm\\fhjm.json": [
+      "0551d52f-f44e-4f54-824a-d59e499f943b@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\hongbao\\hongb.json": [
+      "717366e7-d128-4508-8271-4f88750f5793@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\manghe\\mhjm.json": [
+      "63135893-3648-4780-8cb3-51c039bc27d7@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\pata\\pata.json": [
+      "83cb8bbd-858c-47ad-be4e-f65864f24d4e@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\pd\\pd.json": [
+      "fc642c88-d2ed-4025-86c5-98396ee892f1@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\red\\gth.json": [
+      "851d50ef-657b-4c39-b9e4-2bb717a13588@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\red\\hd.json": [
+      "f473d1a2-c530-429b-a4db-c6c68d4a69e0@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\role\\role.json": [
+      "c1309370-af37-47c2-8062-7bfd6c2b05ab@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\roleLight\\zbjm.json": [
+      "d3f34cb4-835a-40a4-b231-e15532086a07@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\roleLoading\\role.json": [
+      "67ad3e43-1469-4ca1-8b83-9aeeeb647edd@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\sb\\sb.json": [
+      "8645344f-1ac1-4726-b418-7ec99bb8d36f@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\shouzhi\\shouzhi.json": [
+      "861dda0a-0c90-486e-9152-17a33927c82b@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\sl\\sl.json": [
+      "2e5b4e57-1649-481f-a35b-d735d1231803@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\ta\\ta.json": [
+      "cad9d887-db2a-4094-a487-97e62e572784@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\weiji\\weiji.json": [
+      "4a060377-c19f-41da-9b58-51a785999dcc@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\xylc\\xylc.json": [
+      "05a608ca-e463-4559-9a90-05fab69477e5@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\yanhua\\yanhua.json": [
+      "7869b9c2-e9fe-432e-9f9d-ba17df1c187f@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\yd\\yd.json": [
+      "e7ae79f9-da53-48d7-9045-86cf23e396ad@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\spine\\zhujiem\\zjm.json": [
+      "08b478fa-29b7-4e9f-b581-dbad324a3ce6@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\bullet\\res\\bullet17\\rlsz.json": [
+      "973115e9-5fe5-4904-bd08-054566f85ef0@6c48a"
+    ],
+    "G:\\cocos\\末日特工队\\assets\\res\\weapon\\res\\weapon6_1\\tiechui.json": [
+      "88323d8e-cf08-4391-9619-9956074bc2dd@6c48a"
+    ]
+  }
+}

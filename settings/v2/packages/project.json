@@ -1,0 +1,71 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1660,
+      "fitWidth": true,
+      "fitHeight": false
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "PLAYER"
+      },
+      {
+        "index": 2,
+        "name": "MONSTER"
+      },
+      {
+        "index": 3,
+        "name": "PLAYER_BULLET"
+      },
+      {
+        "index": 4,
+        "name": "MONSTER_BULLET"
+      },
+      {
+        "index": 5,
+        "name": "PROP"
+      },
+      {
+        "index": 6,
+        "name": "WALL"
+      },
+      {
+        "index": 7,
+        "name": "PLAYER_BULLET2"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 340,
+      "2": 138,
+      "3": 548,
+      "4": 130,
+      "5": 136,
+      "6": 514,
+      "7": 52,
+      "8": 2,
+      "9": 72
+    },
+    "fixedTimeStep": 0.033,
+    "gravity": {
+      "y": 0
+    },
+    "sleepThreshold": 1,
+    "defaultMaterial": {
+      "friction": 0,
+      "rollingFriction": 0,
+      "spinningFriction": 0,
+      "restitution": 0
+    }
+  },
+  "layer": [
+    {
+      "name": "UI_STATIC",
+      "value": 1
+    }
+  ]
+}

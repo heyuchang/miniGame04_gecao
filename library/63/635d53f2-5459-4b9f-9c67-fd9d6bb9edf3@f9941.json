@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skill_2_7",
+    "atlas": "",
+    "rect": {
+      "x": 13,
+      "y": 8,
+      "width": 74,
+      "height": 85
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 100,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -37,
+        -42.5,
+        0,
+        37,
+        -42.5,
+        0,
+        -37,
+        42.5,
+        0,
+        37,
+        42.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        13,
+        92,
+        87,
+        92,
+        13,
+        7,
+        87,
+        7
+      ],
+      "nuv": [
+        0.13,
+        0.07,
+        0.87,
+        0.07,
+        0.13,
+        0.92,
+        0.87,
+        0.92
+      ],
+      "minPos": {
+        "x": -37,
+        "y": -42.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 37,
+        "y": 42.5,
+        "z": 0
+      }
+    },
+    "texture": "635d53f2-5459-4b9f-9c67-fd9d6bb9edf3@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

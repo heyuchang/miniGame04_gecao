@@ -1,0 +1,388 @@
+2024-07-21T05:58:39.352Z - log: [Package] menu@1.0.0 enable
+2024-07-21T05:58:39.356Z - log: [Package] profile@1.0.0 enable
+2024-07-21T05:58:39.367Z - log: [Package] project@1.0.2 enable
+2024-07-21T05:58:39.373Z - log: [Package] messages@1.0.0 enable
+2024-07-21T05:58:39.379Z - log: [Package] program@1.0.0 enable
+2024-07-21T05:58:39.385Z - log: [Package] tester@1.0.0 enable
+2024-07-21T05:58:39.391Z - log: [Package] preferences@1.0.0 enable
+2024-07-21T05:58:42.373Z - log: Load engine in G:\cocos\Creator\3.6.1\resources\resources\3d\engine
+2024-07-21T05:58:42.885Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tween,ui,video)
+2024-07-21T05:58:42.894Z - log: Register native engine in G:\cocos\Creator\3.6.1\resources\resources\3d\engine\native
+2024-07-21T05:58:42.898Z - log: [Package] engine@1.0.6 enable
+2024-07-21T05:58:44.122Z - log: [Package] programming@1.0.0 enable
+2024-07-21T05:58:44.308Z - warn: 
+2024-07-21T05:58:44.358Z - warn: 
+2024-07-21T05:58:44.516Z - log: [Package] device@1.0.1 enable
+2024-07-21T05:58:44.544Z - log: [Package] ui-kit@1.0.1 enable
+2024-07-21T05:58:44.568Z - log: [Package] engine-extends@1.0.0 enable
+2024-07-21T05:58:44.658Z - log: [Package] asset-db@1.0.0 enable
+2024-07-21T05:58:44.659Z - warn: 
+2024-07-21T05:58:44.729Z - log: [Package] scene@1.0.0 enable
+2024-07-21T05:58:44.946Z - log: [Package] server@1.0.0 enable
+2024-07-21T05:58:44.981Z - log: [Package] utils@1.0.0 enable
+2024-07-21T05:58:46.075Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2024-07-21T05:58:55.592Z - warn: 
+2024-07-21T05:58:55.593Z - warn: 
+2024-07-21T05:58:55.593Z - warn: 
+2024-07-21T05:58:55.926Z - warn: 
+2024-07-21T05:58:55.926Z - warn: 
+2024-07-21T05:58:55.926Z - warn: 
+2024-07-21T05:58:57.656Z - warn: 
+2024-07-21T05:58:57.707Z - log: [Package] preview@1.0.1 enable
+2024-07-21T05:58:57.738Z - log: [Package] animator@1.0.0 enable
+2024-07-21T05:58:57.784Z - log: pluginManager init: 0.132ms
+2024-07-21T05:58:57.885Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme  
+at Logger.record (G:\cocos\Creator\3.6.1\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (G:\cocos\Creator\3.6.1\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (G:\cocos\Creator\3.6.1\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:386:15)  
+at browserslist (G:\cocos\Creator\3.6.1\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:394:7)  
+at resolveTargets (G:\cocos\Creator\3.6.1\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:165:20)  
+at getTargets (G:\cocos\Creator\3.6.1\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:210:27)  
+at getLocalTargets (G:\cocos\Creator\3.6.1\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at G:\cocos\Creator\3.6.1\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2024-07-21T05:58:59.243Z - log: Profile changed: builder (log.level: 4)
+2024-07-21T05:58:59.253Z - log: [Package] builder@1.3.3 enable
+2024-07-21T05:58:59.293Z - log: [Package] shortcuts@1.0.1 enable
+2024-07-21T05:58:59.325Z - log: [Package] animation-graph@1.0.0 enable
+2024-07-21T05:58:59.354Z - log: [Package] about@1.0.0 enable
+2024-07-21T05:58:59.386Z - log: [Package] assets@1.0.0 enable
+2024-07-21T05:58:59.419Z - log: [Package] console@1.0.0 enable
+2024-07-21T05:58:59.645Z - log: [Package] extension@3.0.16 enable
+2024-07-21T05:58:59.676Z - log: [Package] hierarchy@1.0.0 enable
+2024-07-21T05:58:59.709Z - log: [Package] inspector@1.0.0 enable
+2024-07-21T05:58:59.741Z - log: [Package] lightmap@1.0.4 enable
+2024-07-21T05:59:00.280Z - log: [Package] localization-editor@1.0.0 enable
+2024-07-21T05:59:00.291Z - log: [Build-plugin] register pkg localization-editor: 7.161ms
+2024-07-21T05:59:00.320Z - log: [Package] node-library@1.0.1 enable
+2024-07-21T05:59:00.344Z - log: [Package] package-asset@1.0.0 enable
+2024-07-21T05:59:00.370Z - log: [Package] process@1.0.0 enable
+2024-07-21T05:59:00.403Z - log: [Package] reference-image@1.0.0 enable
+2024-07-21T05:59:00.428Z - log: [Package] alipay-mini-game@1.0.1 enable
+2024-07-21T05:59:00.430Z - log: [Build-plugin] register pkg alipay-mini-game: 1.833ms
+2024-07-21T05:59:00.455Z - log: [Package] android@1.0.1 enable
+2024-07-21T05:59:00.464Z - log: [Build-plugin] register pkg android: 8.23ms
+2024-07-21T05:59:00.485Z - log: [Package] baidu-mini-game@1.0.1 enable
+2024-07-21T05:59:00.491Z - log: [Build-plugin] register pkg baidu-mini-game: 5.483ms
+2024-07-21T05:59:00.559Z - log: [Package] bytedance-mini-game@1.0.2 enable
+2024-07-21T05:59:00.563Z - log: [Build-plugin] register pkg bytedance-mini-game: 3.415ms
+2024-07-21T05:59:00.586Z - log: [Package] certificate@1.0.0 enable
+2024-07-21T05:59:00.610Z - log: [Package] channel-upload-tools@1.0.0 enable
+2024-07-21T05:59:00.633Z - log: [Package] cocos-play@1.0.1 enable
+2024-07-21T05:59:00.641Z - log: [Build-plugin] register pkg cocos-play: 7.705ms
+2024-07-21T05:59:00.665Z - log: [Package] huawei-agc@1.0.0 enable
+2024-07-21T05:59:00.669Z - log: [Build-plugin] register pkg huawei-agc: 4.048ms
+2024-07-21T05:59:00.693Z - log: [Package] huawei-quick-game@1.0.1 enable
+2024-07-21T05:59:00.698Z - log: [Build-plugin] register pkg huawei-quick-game: 4.232ms
+2024-07-21T05:59:00.728Z - log: [Package] ios@1.0.0 enable
+2024-07-21T05:59:00.732Z - log: [Build-plugin] register pkg ios: 3.564ms
+2024-07-21T05:59:00.753Z - log: [Package] linux@1.0.0 enable
+2024-07-21T05:59:00.755Z - log: [Build-plugin] register pkg linux: 1.171ms
+2024-07-21T05:59:00.778Z - log: [Package] mac@1.0.0 enable
+2024-07-21T05:59:00.783Z - log: [Build-plugin] register pkg mac: 4.558ms
+2024-07-21T05:59:00.898Z - log: [Package] native@1.0.2 enable
+2024-07-21T05:59:00.907Z - log: [Build-plugin] register pkg native: 8.045ms
+2024-07-21T05:59:00.930Z - log: [Package] ohos@1.0.0 enable
+2024-07-21T05:59:00.934Z - log: [Build-plugin] register pkg ohos: 3.024ms
+2024-07-21T05:59:00.956Z - log: [Package] open-harmonyos@1.0.0 enable
+2024-07-21T05:59:00.958Z - log: [Build-plugin] register pkg open-harmonyos: 2.556ms
+2024-07-21T05:59:00.982Z - log: [Package] oppo-mini-game@1.0.1 enable
+2024-07-21T05:59:00.986Z - log: [Build-plugin] register pkg oppo-mini-game: 3.632ms
+2024-07-21T05:59:01.009Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2024-07-21T05:59:01.031Z - log: [Package] vivo-mini-game@1.0.1 enable
+2024-07-21T05:59:01.035Z - log: [Build-plugin] register pkg vivo-mini-game: 3.761ms
+2024-07-21T05:59:01.089Z - log: [Package] web-desktop@1.0.1 enable
+2024-07-21T05:59:01.094Z - log: [Build-plugin] register pkg web-desktop: 4.421ms
+2024-07-21T05:59:01.123Z - log: [Package] web-mobile@1.0.1 enable
+2024-07-21T05:59:01.127Z - log: [Build-plugin] register pkg web-mobile: 3.632ms
+2024-07-21T05:59:01.159Z - log: [Package] wechatgame@1.0.2 enable
+2024-07-21T05:59:01.165Z - log: [Build-plugin] register pkg wechatgame: 5.089ms
+2024-07-21T05:59:01.187Z - log: [Package] windows@1.0.1 enable
+2024-07-21T05:59:01.193Z - log: [Build-plugin] register pkg windows: 5.446ms
+2024-07-21T05:59:01.217Z - log: [Package] xiaomi-quick-game@1.0.1 enable
+2024-07-21T05:59:01.223Z - log: [Build-plugin] register pkg xiaomi-quick-game: 5.433ms
+2024-07-21T05:59:01.881Z - log: [Package] cocos-service@3.0.7 enable
+2024-07-21T05:59:01.889Z - log: [Build-plugin] register pkg cocos-service: 4.113ms
+2024-07-21T05:59:02.241Z - log: [Im-plugin] Check im-plugin version.
+2024-07-21T05:59:02.249Z - log: [Package] im-plugin@3.0.9 enable
+2024-07-21T05:59:02.991Z - log: [Im-plugin] No online info of im-plugin.
+2024-07-21T05:59:41.838Z - warn: 
+2024-07-21T05:59:41.838Z - warn: 
+2024-07-21T05:59:41.838Z - warn: 
+2024-07-21T05:59:43.315Z - log: [Scene] Please specifiy a default value for "cc.EditorExtendable.__editorExtras__" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.343Z - log: [Scene] Please specifiy a default value for "CCPropertyOverrideInfo.value" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.344Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.asset" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.345Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.nestedPrefabInstanceRoots" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.349Z - log: [Scene] The 'default' attribute of 'ColorDesc.beginAccesses' must be an array
+2024-07-21T05:59:43.349Z - log: [Scene] The 'default' attribute of 'ColorDesc.endAccesses' must be an array
+2024-07-21T05:59:43.365Z - log: [Scene] Please specifiy a default value for "cc.animation.TrackBinding.proxy" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.365Z - log: [Scene] Please specifiy a default value for "cc.animation.Channel._curve" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.365Z - log: [Scene] Please specifiy a default value for "cc.animation.SingleChannelTrack._channel" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.367Z - log: [Scene] Please specifiy a default value for "cc.animation.VectorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.367Z - log: [Scene] Please specifiy a default value for "cc.animation.ColorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.367Z - log: [Scene] Please specifiy a default value for "cc.animation.SizeTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.368Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.from" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.368Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.to" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.368Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._entryState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.368Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._exitState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.368Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._anyState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.368Z - log: [Scene] Please specifiy a default value for "cc.animation.Layer._stateMachine" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.369Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.369Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._isQuantized" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.369Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.times" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.369Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.369Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.originalPrecision" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.370Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.min" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.370Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.extent" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.370Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2024-07-21T05:59:43.411Z - log: [Scene] 'cc.ParticleSystem2D.color' hides inherited property 'cc.UIRenderer.color'. To make the current property override that implementation, add the `override: true` attribute please.
+2024-07-21T05:59:43.486Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._receiveShadow", which its default value is type of Boolean.
+2024-07-21T05:59:43.486Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._useNormalmap", which its default value is type of Boolean.
+2024-07-21T05:59:43.486Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._usePBR", which its default value is type of Boolean.
+2024-07-21T05:59:43.486Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._lodEnable", which its default value is type of Boolean.
+2024-07-21T05:59:43.596Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2024-07-21T05:59:43.610Z - info: [Scene] [PHYSICS]: using builtin.
+2024-07-21T05:59:43.793Z - log: [Scene] Cocos Creator v3.6.1
+2024-07-21T05:59:43.793Z - info: [Scene] Forward render pipeline initialized.
+2024-07-21T05:59:58.565Z - warn: [Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png)} 的动态加载 URL 相同(activityRes/guessbg)，请调整目录结构来避免动态加载资源时出现异常。[Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png)} 的动态加载 URL 相同(activityRes/guessbg)，请调整目录结构来避免动态加载资源时出现异常。  
+at NewConsole.warn (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1306)  
+at o (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:497)  
+at G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:735  
+at Array.forEach (<anonymous>)  
+at BuildTask.handle (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:618)  
+at BuildTask.runBuildTask (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:7789)
+2024-07-21T05:59:58.568Z - warn: [Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg/texture)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png/texture)} 的动态加载 URL 相同(activityRes/guessbg/texture)，请调整目录结构来避免动态加载资源时出现异常。[Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg/texture)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png/texture)} 的动态加载 URL 相同(activityRes/guessbg/texture)，请调整目录结构来避免动态加载资源时出现异常。  
+at NewConsole.warn (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1306)  
+at o (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:497)  
+at G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:735  
+at Array.forEach (<anonymous>)  
+at BuildTask.handle (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:618)  
+at BuildTask.runBuildTask (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:7789)
+2024-07-21T05:59:58.568Z - warn: [Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg/spriteFrame)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png/spriteFrame)} 的动态加载 URL 相同(activityRes/guessbg/spriteFrame)，请调整目录结构来避免动态加载资源时出现异常。[Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg/spriteFrame)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png/spriteFrame)} 的动态加载 URL 相同(activityRes/guessbg/spriteFrame)，请调整目录结构来避免动态加载资源时出现异常。  
+at NewConsole.warn (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1306)  
+at o (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:497)  
+at G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:735  
+at Array.forEach (<anonymous>)  
+at BuildTask.handle (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:618)  
+at BuildTask.runBuildTask (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:7789)
+2024-07-21T06:08:59.299Z - warn: [Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png)} 的动态加载 URL 相同(activityRes/guessbg)，请调整目录结构来避免动态加载资源时出现异常。[Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png)} 的动态加载 URL 相同(activityRes/guessbg)，请调整目录结构来避免动态加载资源时出现异常。  
+at NewConsole.warn (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1306)  
+at o (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:497)  
+at G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:735  
+at Array.forEach (<anonymous>)  
+at BuildTask.handle (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:618)  
+at BuildTask.runBuildTask (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:7789)
+2024-07-21T06:08:59.299Z - warn: [Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg/texture)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png/texture)} 的动态加载 URL 相同(activityRes/guessbg/texture)，请调整目录结构来避免动态加载资源时出现异常。[Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg/texture)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png/texture)} 的动态加载 URL 相同(activityRes/guessbg/texture)，请调整目录结构来避免动态加载资源时出现异常。  
+at NewConsole.warn (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1306)  
+at o (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:497)  
+at G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:735  
+at Array.forEach (<anonymous>)  
+at BuildTask.handle (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:618)  
+at BuildTask.runBuildTask (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:7789)
+2024-07-21T06:08:59.300Z - warn: [Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg/spriteFrame)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png/spriteFrame)} 的动态加载 URL 相同(activityRes/guessbg/spriteFrame)，请调整目录结构来避免动态加载资源时出现异常。[Build] 资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.jpg/spriteFrame)} 与资源 {asset(db://assets/res/wwqVec/activityRes/guessbg.png/spriteFrame)} 的动态加载 URL 相同(activityRes/guessbg/spriteFrame)，请调整目录结构来避免动态加载资源时出现异常。  
+at NewConsole.warn (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1306)  
+at o (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:497)  
+at G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:735  
+at Array.forEach (<anonymous>)  
+at BuildTask.handle (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\setting-task\group.ccc:1:618)  
+at BuildTask.runBuildTask (G:\cocos\Creator\3.6.1\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:7789)
+2024-07-23T12:45:11.832Z - warn: Metrics: no valid info

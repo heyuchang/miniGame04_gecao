@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "attackLabel",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 44,
+      "height": 22
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 44,
+      "height": 22
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -22,
+        -11,
+        0,
+        22,
+        -11,
+        0,
+        -22,
+        11,
+        0,
+        22,
+        11,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        22,
+        44,
+        22,
+        0,
+        0,
+        44,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -22,
+        "y": -11,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 22,
+        "y": 11,
+        "z": 0
+      }
+    },
+    "texture": "f5e75f66-2923-4c32-bada-812637a1d03e@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

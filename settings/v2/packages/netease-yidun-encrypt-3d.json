@@ -1,0 +1,9 @@
+{
+  "config": {
+    "buildDir": "E:\\cocos\\mrtgd\\build\\android",
+    "engineDir": "D:\\develop\\CocosDashboard\\resources\\.editors\\Creator\\3.6.1",
+    "neteaseKey": "chenhui123456789",
+    "excludeExt": "",
+    "buildTypeSelect": "0"
+  }
+}

@@ -1,0 +1,89 @@
+{
+    "saveName": "num",
+    "bitMapCfg": [
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\+.png",
+            "char": "+",
+            "width": 29,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\-.png",
+            "char": "-",
+            "width": 23,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\0.png",
+            "char": "0",
+            "width": 36,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\1.png",
+            "char": "1",
+            "width": 19,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\2.png",
+            "char": "2",
+            "width": 35,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\3.png",
+            "char": "3",
+            "width": 36,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\4.png",
+            "char": "4",
+            "width": 34,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\5.png",
+            "char": "5",
+            "width": 36,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\6.png",
+            "char": "6",
+            "width": 35,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\7.png",
+            "char": "7",
+            "width": 33,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\8.png",
+            "char": "8",
+            "width": 37,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\9.png",
+            "char": "9",
+            "width": 37,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\d.png",
+            "char": ".",
+            "width": 15,
+            "height": 39
+        },
+        {
+            "image": "E:\\data\\末日特攻队\\美术\\数字\\mh.png",
+            "char": ":",
+            "width": 19,
+            "height": 39
+        }
+    ]
+}

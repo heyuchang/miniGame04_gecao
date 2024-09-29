@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_Share",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 3,
+      "width": 37,
+      "height": 34
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 40,
+      "height": 40
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -18.5,
+        -17,
+        0,
+        18.5,
+        -17,
+        0,
+        -18.5,
+        17,
+        0,
+        18.5,
+        17,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        2,
+        37,
+        39,
+        37,
+        2,
+        3,
+        39,
+        3
+      ],
+      "nuv": [
+        0.05,
+        0.075,
+        0.975,
+        0.075,
+        0.05,
+        0.925,
+        0.975,
+        0.925
+      ],
+      "minPos": {
+        "x": -18.5,
+        "y": -17,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 18.5,
+        "y": 17,
+        "z": 0
+      }
+    },
+    "texture": "a1ad8b0f-e717-4a6b-8176-149fd243df8e@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
